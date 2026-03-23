@@ -1,0 +1,43 @@
+body{
+    font-family: Arial, sans-serif;
+    background: #ffffff;
+}
+
+.box{
+    width: 400px;
+    margin: 100px auto;
+    border: 2px solid #0a0a0a;
+    padding: 20px;
+    background: rgb(255, 255, 255);
+}
+
+h2{
+    text-align: center;
+}
+
+hr{
+    margin: 10px 0;
+}
+
+p{
+    margin: 5px 0;
+}
+
+input{
+    width: 100%;
+    padding: 5px;
+    margin: 5px 0 10px 0;
+}
+
+button{
+    width: 100%;
+    padding: 7px;
+    background: black;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover{
+    background: gray;
+}
